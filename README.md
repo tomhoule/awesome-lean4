@@ -8,6 +8,11 @@
 
 — [https://leanprover.github.io/about/](https://leanprover.github.io/about/)
 
+## Repositories
+
+- [lean4 language implementation](https://github.com/leanprover/lean4)
+- [std](https://github.com/leanprover/std4/), the standard library.
+
 ## Programming
 
 - [The official docs page](https://leanprover.github.io/lean4/doc/)
