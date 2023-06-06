@@ -10,12 +10,17 @@
 
 ## Programming
 
+- [The official docs page](https://leanprover.github.io/lean4/doc/)
 - [Functional Programming in Lean](https://leanprover.github.io/lean4/doc/fplean.html)
 - Macro book
 
 ## Papers
 
 - [The Lean 4 Theorem Prover and Programming Language](https://link.springer.com/chapter/10.1007/978-3-030-79876-5_37)
+
+## Mathematics
+
+- [Mathlib](https://github.com/leanprover-community/mathlib4)
 
 ## Community
 
