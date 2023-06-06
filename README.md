@@ -17,7 +17,7 @@
 
 - [The official docs page](https://leanprover.github.io/lean4/doc/)
 - [Functional Programming in Lean](https://leanprover.github.io/lean4/doc/fplean.html)
-- Macro book
+- The lean4 metaprogramming book ([PDF](https://github.com/arthurpaulino/lean4-metaprogramming-book/releases/download/latest/Metaprogramming.in.Lean.4.pdf), [source](https://github.com/arthurpaulino/lean4-metaprogramming-book))
 
 ## Papers
 
