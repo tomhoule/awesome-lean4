@@ -12,6 +12,7 @@
 
 - [lean4 language implementation](https://github.com/leanprover/lean4)
 - [std](https://github.com/leanprover/std4/), the standard library.
+- [lake](https://github.com/leanprover/lake), the official package manager.
 
 ## Programming
 
