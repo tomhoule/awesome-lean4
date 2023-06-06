@@ -8,6 +8,11 @@
 
 — [https://leanprover.github.io/about/](https://leanprover.github.io/about/)
 
+**Disclaimer: this is a draft repository mostly for myself at the moment, it
+isn't ready to be shared as a resource for others to use. I will seek shared
+ownership with other members of the community if and when this list grows to
+the point of being useful.**
+
 ## Repositories
 
 - [lean4 language implementation](https://github.com/leanprover/lean4)
